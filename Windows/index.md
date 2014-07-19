@@ -1,1 +1,1 @@
-This file collects all **iSC Inc. SDK**s for *Windows*.
+This file collects all **iSC Inc. SDKs** for *Windows*.
