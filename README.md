@@ -26,6 +26,11 @@ Except as otherwise noted, the iSC Inc. SDK is licensed under the Apache License
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ## Terms
+By using the iSC Inc. SDK you agree to our (these) terms:
+* [Term of Use](http://inc.isc/policy/usage/)
+* [Platform Policies](https://developers.inc.isc/policy/platform/)
+* [Advertising Guidelines](https://www.inc.isc/policy/ads/)
+
 ### For Developer
 By enabling iSC Inc. integrations, including through this SDK, you can share information with iSC Inc., including information about people’s use of your app or other project.
 iSC Inc. will use information received in accordance with our Data Use Policy (http://inc.isc/privacy/data/), including to provide you with sevurity and the use of your app.
