@@ -15,7 +15,6 @@ SDKs like:
 * Linux
 * Debian
 * ...
-* 
 
 ## Usage
 *iSC Inc. SDK* for own Use or for non-profit organisations which are partners with iSC Inc.!!!
